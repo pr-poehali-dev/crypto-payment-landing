@@ -72,7 +72,7 @@ const Index = () => {
                 <div>
                   <div className="flex items-center gap-2 text-primary mb-2">
                     <Icon name="Zap" size={24} />
-                    <span className="text-3xl font-bold">< 1 мин</span>
+                    <span className="text-3xl font-bold">&lt; 1 мин</span>
                   </div>
                   <p className="text-sm text-gray-600">Скорость транзакций</p>
                 </div>
